@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bogdanpostolov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-postolov) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LiZaRD_MK) 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qag418bf4rtqpp0oc9yhm29vm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qag418bf4rtqpp0oc9yhm29vm&redirect=true)
